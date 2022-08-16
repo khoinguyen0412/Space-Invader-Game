@@ -7,7 +7,7 @@ Space Invader game is a fun shooting game which let users to test their shooting
 
 
 ## Installation
-![Space Invader Installation](https://user-images.githubusercontent.com/91571123/184936993-fdf6ecbd-1eff-4e75-b0c5-1d9ca5d56bb3.png)
+![Space Invader Installation](https://user-images.githubusercontent.com/91571123/184936993-fdf6ecbd-1eff-4e75-b0c5-1d9ca5d56bb3.png) <br/>
 To modify the game's code, download "game.py" and the "resources" zip (which is used in the main code) 
 
 Most importantly, you need install pygame in order to run this game
